@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "808841115649",
+    "project_id": "convoy-bbfca",
+    "storage_bucket": "convoy-bbfca.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:808841115649:android:f1aacf57dbc0cd33d72800",
+        "android_client_info": {
+          "package_name": "com.qafila.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCSvkv0ZgHHPFC8gN6PN6KfyHaWSbR_RYU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
